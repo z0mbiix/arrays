@@ -1,18 +1,16 @@
 body { 
     background-color: #DAE7DF;
     color: black;
-    font-family: fantasy;
+    font-family: papyrus, fantasy;
 }
 
 header {
     background-color: #98B6B1;
     color: black;
-    font-family: fantasy;
+    font-family: papyrus, fantasy;
 }
 h1 {
     font-size: 50px;
-    height: 100px;
-    width: auto;
 }
 a {
     background-color: #FAC8CD;
