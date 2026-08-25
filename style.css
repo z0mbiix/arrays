@@ -1,6 +1,10 @@
 body { 
     background-color: #DAE7DF;
     color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: MV Boli;
 }
 
 header {
