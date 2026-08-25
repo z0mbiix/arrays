@@ -11,9 +11,8 @@ header {
 }
 h1 {
     font-size: 50px;
-    background-color: #98B6B1;
-    color: black;
-    font-family: fantasy;
+    height: 100px;
+    width: auto;
 }
 a {
     background-color: #FAC8CD;
