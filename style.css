@@ -6,7 +6,7 @@ body {
 header {
     background-color: #98B6B1;
     color: black;
-    size: 50px;
+    flex: auto;
 
 }
 a {
