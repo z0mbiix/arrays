@@ -5,7 +5,16 @@ body {
 
 header {
     background-color: #98B6B1;
-    color: black;
+    color: black;  
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    max-width: 600px;
+    padding-bottom: 150px;
+    padding-top: 150px;
+    display: flex;
+    
 }
 h1 {
     font-size: 50px;
