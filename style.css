@@ -1,7 +1,6 @@
 body { 
     background-color: #DAE7DF;
     color: black;
-    font-family: "Mv Boli";
 }
 
 header {
@@ -10,6 +9,7 @@ header {
 }
 h1 {
     font-size: 50px;
+    font-family: "Mv Boli";
 }
 a {
     background-color: #FAC8CD;
