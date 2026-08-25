@@ -1,13 +1,12 @@
 body { 
     background-color: #DAE7DF;
     color: black;
-    font-family: papyrus, fantasy;
+    font-family: "Mv Boli";
 }
 
 header {
     background-color: #98B6B1;
     color: black;
-    font-family: papyrus, fantasy;
 }
 h1 {
     font-size: 50px;
