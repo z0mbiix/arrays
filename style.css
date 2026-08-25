@@ -7,8 +7,8 @@ body {
 header {
     background-color: #98B6B1;
     color: black;
-    height: auto;
-    width: auto;
+    height: 100px;
+    width: 100%;
     font-family: Papyrus;
 }
 h1 {
